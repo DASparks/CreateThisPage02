@@ -1,0 +1,13 @@
+body {background-color:blue;}
+
+main{width:600px; margin:auto; background:#00C957; border:5px solid black; padding:30px; font-family:Arial Narrow, Sans-serif;}
+
+header img {display:block; margin:auto; width:70%; height:35%; border:20px ridge gold; border-radius:50%;}
+
+section p {font-size:18px; font-weight:bold;}
+
+h1{font-size:175%;}
+#one {color:blue;}
+#two {color:red;}
+#three {color:gold;}
+#four {color:green;}
